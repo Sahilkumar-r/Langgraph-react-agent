@@ -1,4 +1,5 @@
-streamlit
-pandas
-numpy
-scikit-learn
+langchain-openai
+langchain-community
+langgraph
+duckduckgo-search
+python-dotenv
